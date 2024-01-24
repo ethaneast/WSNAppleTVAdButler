@@ -1,2 +1,2 @@
-preroll:true
-midroll:true
+preroll:false
+midroll:false
